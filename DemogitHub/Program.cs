@@ -16,6 +16,7 @@ namespace DemogitHub
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Update from Duy");
+            Console.WriteLine("Update from NewBrand (Duy)");
         }
     }
 }
