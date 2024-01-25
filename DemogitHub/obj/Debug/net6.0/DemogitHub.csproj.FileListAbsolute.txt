@@ -1,0 +1,14 @@
+D:\CODE\C#\DemogitHub\DemogitHub\bin\Debug\net6.0\DemogitHub.exe
+D:\CODE\C#\DemogitHub\DemogitHub\bin\Debug\net6.0\DemogitHub.deps.json
+D:\CODE\C#\DemogitHub\DemogitHub\bin\Debug\net6.0\DemogitHub.runtimeconfig.json
+D:\CODE\C#\DemogitHub\DemogitHub\bin\Debug\net6.0\DemogitHub.dll
+D:\CODE\C#\DemogitHub\DemogitHub\bin\Debug\net6.0\DemogitHub.pdb
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.AssemblyInfoInputs.cache
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.AssemblyInfo.cs
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.csproj.CoreCompileInputs.cache
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.dll
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\refint\DemogitHub.dll
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.pdb
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\DemogitHub.genruntimeconfig.cache
+D:\CODE\C#\DemogitHub\DemogitHub\obj\Debug\net6.0\ref\DemogitHub.dll
