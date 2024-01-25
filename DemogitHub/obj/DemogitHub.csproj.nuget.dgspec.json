@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\C#\\DemogitHub\\DemogitHub\\DemogitHub.csproj": {}
+    "D:\\CODE\\C#\\Test\\DemogitHub\\DemogitHub.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\C#\\DemogitHub\\DemogitHub\\DemogitHub.csproj": {
+    "D:\\CODE\\C#\\Test\\DemogitHub\\DemogitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\C#\\DemogitHub\\DemogitHub\\DemogitHub.csproj",
+        "projectUniqueName": "D:\\CODE\\C#\\Test\\DemogitHub\\DemogitHub.csproj",
         "projectName": "DemogitHub",
-        "projectPath": "D:\\CODE\\C#\\DemogitHub\\DemogitHub\\DemogitHub.csproj",
+        "projectPath": "D:\\CODE\\C#\\Test\\DemogitHub\\DemogitHub.csproj",
         "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\C#\\DemogitHub\\DemogitHub\\obj\\",
+        "outputPath": "D:\\CODE\\C#\\Test\\DemogitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
